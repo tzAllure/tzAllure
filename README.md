@@ -10,17 +10,16 @@ Sou um entusiasta da tecnologia apaixonado principalmente pela arte do hacking e
 ## O Que Você Encontrará Aqui
 Aqui está um breve resumo do que você pode esperar:
 
-- 💻 Códigos e ferramentas úteis que desenvolvi sobre hacking, exploit etc (tanto para meu aprendizado tanto para uso avançado).
+- 💻 Códigos e ferramentas úteis que desenvolvi sobre hacking, exploit, desenvolvimento e etc..
 - 📚 Estudos e "tutoriais" que posso compartilhar.
 
 ## Principais Tecnologias
 Estou estudando para dominar as seguintes tecnologias:
 
-- 🚀 Python (Só isso por enquanto)
+- 🚀 Python
+- 🚀 Csharp
 
 ## Vamos Conectar!
 Se você está interessado em colaborar, tem perguntas ou apenas quer bater um papo sobre tecnologia, não hesite em entrar em contato!
-
-- 📫 Você pode me encontrar no https://www.linkedin.com/in/jefferson-matheus-024832289/.
 
  🚀✨
