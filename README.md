@@ -17,7 +17,6 @@ Aqui está um breve resumo do que você pode esperar:
 Estou estudando para dominar as seguintes tecnologias:
 
 - 🚀 Python
-- 🚀 Csharp
 
 ## Vamos Conectar!
 Se você está interessado em colaborar, tem perguntas ou apenas quer bater um papo sobre tecnologia, não hesite em entrar em contato!
